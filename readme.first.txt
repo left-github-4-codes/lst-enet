@@ -23,8 +23,10 @@ enableJIT(1)
    get_weight_wi1
    get_lst_beta1
    CV_lst_enet1
+   TSDR (at the end of compare.R)
+   FSDR (at the end of compare.R)
    
-(iii) now you can run 
+(iii) now you can run  any of following 
    compare.R
    compare1.R
    comparev2.R
